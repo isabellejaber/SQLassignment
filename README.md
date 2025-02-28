@@ -2,8 +2,8 @@
 
 ASSIGNMENT FOR BRAINSTATION
 
-In this assignment, I was required to craft the following SQL queries based on the provided database
-In your queries, specify the database and table when retrieving data
+In this assignment, I was required to craft the following SQL queries based on the provided database.
+My queries, specify the database and table when retrieving data
 
 1. Retrieve the `usernames` and email addresses of all users from the `user` table.
 
